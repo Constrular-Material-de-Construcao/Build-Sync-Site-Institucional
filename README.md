@@ -4,7 +4,7 @@
 <div align='center'>
   <h1>Constrular - Gestão Inteligente para Materiais de Construção</h1>
   <h3>Projeto Interdisciplinar - 3º Semestre (Fatec)</h3>
-  <img align='center' src="./Deposito_Material_Construcao/branding/logoazul.png" style="width: 180px; height: 180px; margin-top: 15px;"/>
+  <img align='center' src="https://raw.githubusercontent.com/Constrular-Material-de-Construcao/Deposito_Material_Construcao/main/branding/logoazul.png" style="width: 180px; height: 180px; margin-top: 15px;"/>
 </div>
 
 <br>
