@@ -1,15 +1,15 @@
-# Retrospective - [Nome do Grupo]
+# Retrospective - [BuildSync]
 
-**Data:** [Inserir data]
+**Data:** [01/07/2026]
 
 ## 1. O que funcionou bem? 👍
-
+- A comunicação entre todos os envolvidos foi excelente. Divisão de tarefas em perfeita harmonia e, coordenação efetiva. (Felipe)
 - 
 - 
 - 
 
 ## 2. O que pode ser melhorado? 🔧
-
+- A agilidade nos processos. (Felipe)
 - 
 - 
 - 
@@ -18,7 +18,7 @@
 
 | Ação | Responsável | Prazo |
 |------|-------------|-------|
-|      |             |       |
+|Orientação      | TechLead             |Próxima Sprint       |
 |      |             |       |
 |      |             |       |
 
