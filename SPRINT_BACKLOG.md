@@ -1,27 +1,26 @@
 # Sprint Backlog - Build Sync
 
-**Data da Sprint:** 30/06/2026
+**Data da Sprint:** 01/07/2026
 **Duração da Sprint:** 3 horas (simulada)
-**Objetivo da Sprint:** Desenvolver e publicar a Landing Page institucional da Build Sync para apresentar o sistema Constrular.
+**Objetivo da Sprint:** Finalizar a landing page institucional da Build Sync, integrar as partes e validar a entrega.
 
 ## Definition of Done (DoD)
-[ X ] Tarefa implementada e funcional
-[ X ] Código commitado com mensagem clara
-[ X ] Pull Request criado e revisado por pelo menos 1 colega
-[ X ] Merge realizado na branch main
-[ X ] Demonstração funcionando na Sprint Review
+- [X] Tarefa implementada e funcional
+- [X] Código commitado com mensagem clara
+- [X] Pull Request criado e revisado por pelo menos 1 colega
+- [X] Merge realizado na branch main
+- [X] Demonstração funcionando na Sprint Review
 
 ## Tarefas do Sprint
 
 | # | Tarefa | Descrição | Responsável | Status | Critérios de Aceitação |
 |---|--------|-----------|-------------|--------|------------------------|
-| 1 | Desenvolver o backlog do produto | Criar, detalhar e priorizar as histórias de usuário e o backlog focado na Landing Page do Constrular. | Aleksander | ☐ | Backlog documentado em Markdown, revisado com a equipe e pronto para as próximas sprints. |
-| 2 | Prototipar as telas do projeto | Desenvolver o wireframe/protótipo de alta fidelidade da Landing Page para guiar o desenvolvimento. | Beatriz | ☐ | Protótipo visual completo da Home Page aprovado por toda a equipe antes do início do código. |
-| 3 | Criar e administrar o repositório | Configurar o repositório oficial no GitHub, organizar as branches e apoiar a revisão dos Pull Requests. | Mateus | ☐ | Repositório criado, README inicial configurado e acessos liberados para o grupo. |
-| 4 | Desenvolver o HTML5 do projeto | Estruturar semanticamente o conteúdo da Landing Page (topo, seções sobre o Constrular, e rodapé) utilizando HTML5 puro. | Marcos | ☐ | Código estruturado de forma semântica, validado e sem erros de tags com base no protótipo. |
-| 5 | Desenvolver o CSS do projeto | Estilizar a estrutura HTML5, definindo cores, fontes, espaçamentos e aplicando o layout visual planejado. | Felipe | ☐ | Design idêntico ao protótipo da Beatriz, com visual profissional e totalmente responsivo. |
+| 1 | Atualizar documentação e backlog | Atualizar o arquivo SPRINT_BACKLOG.md, finalizar o RETROSPECTIVE.md e organizar as evidências de participação individual. | Aleksander | [X] | Documentos finais do projeto preenchidos em Markdown e prontos para a entrega do grupo. |
+| 2 | Validar design e testes visuais | Validar a página final no navegador e testar o comportamento visual da interface em celular, tablet e desktop de acordo com o protótipo. | Beatriz | [X] | Interface consistente visualmente em múltiplos dispositivos e aprovada sem quebras de layout. |
+| 3 | Integração de branches e revisão de PRs | Integrar as partes desenvolvidas, revisar todos os Pull Requests pendentes e garantir os merges corretos na branch main. | Mateus | [X] | Repositório com todos os PRs fechados, sem conflitos de código e versão estável na main. |
+| 4 | Concluir e ajustar o HTML5 | Finalizar a estrutura do código HTML5 e aplicar correções e ajustes apontados na revisão de código do time. | Marcos | [X] | HTML estruturado de forma limpa, sem erros de tags e integrado com os seletores CSS. |
+| 5 | Concluir CSS e responsividade | Finalizar a estilização da página e aplicar as regras de media queries para garantir a responsividade em telas de celulares e tablets. | Felipe | [X] | CSS responsivo totalmente funcional e aplicado corretamente à estrutura semântica. |
 
 ## Observações / Bloqueios
-- **Dependência Técnica:** O desenvolvimento do HTML5 (Marcos) depende diretamente da finalização dos protótipos da Beatriz para seguir o layout correto.
-- **Integração de Estilos:** O CSS do Felipe deve ser aplicado logo após o fechamento da estrutura semântica criada pelo Marcos.
-- **Prazo Curto:** Devido à duração simulada de 3 horas, a comunicação ágil entre o time é essencial para evitar gargalos entre design, estrutura e estilização.
+- **Integração Concluída:** Todo o processo de merge foi concluído com sucesso por conta do alinhamento ágil do time na revisão de Pull Requests.
+- **Validação de Dispositivos:** Foram simuladas diferentes resoluções via DevTools do navegador para garantir que o produto Constrular seja exibido perfeitamente em telas móveis e desktop.
