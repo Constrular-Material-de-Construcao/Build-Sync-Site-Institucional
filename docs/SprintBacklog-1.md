@@ -5,11 +5,11 @@
 **Objetivo da Sprint:** Desenvolver e publicar a Landing Page institucional da Build Sync para apresentar o sistema Constrular.
 
 ## Definition of Done (DoD)
-- Tarefa implementada e funcional
-- Código commitado com mensagem clara
-- Pull Request criado e revisado por pelo menos 1 colega
-- Merge realizado na branch main
-- Demonstração funcionando na Sprint Review
+[ X ] Tarefa implementada e funcional
+[ X ] Código commitado com mensagem clara
+[ X ] Pull Request criado e revisado por pelo menos 1 colega
+[ X ] Merge realizado na branch main
+[ X ] Demonstração funcionando na Sprint Review
 
 ## Tarefas do Sprint
 
